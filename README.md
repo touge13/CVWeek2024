@@ -2,7 +2,7 @@
 - Моя модель на Hugging Face: https://huggingface.co/ke-jetronic/cv_week_final_task
 - Ссылка на transposed_mnist_test.pt и transposed_mnist_train.pt (не влезли в репозиторий GitHub, посмотреть путь можно в файле gitignore): https://disk.yandex.ru/d/suD8f0HUAp9rQg
 
-![alt text](certificate(16).png)
+![alt text](certificateCVWeek(16).jpg)
 
 ---
 
